@@ -13,3 +13,7 @@ SimpleBst is an unbalanced Binary Search Tree.
 
 - add() and search() methods run with O(1) space
 - print() runs with O(N*logN) space on random input and O(N^2) in worst case
+
+## Posibble improvements
+
+Red-black tree realization of BST interface could be added to reduce worst-case time and space complexity. 
